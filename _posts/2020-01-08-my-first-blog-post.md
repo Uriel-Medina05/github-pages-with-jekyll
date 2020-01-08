@@ -1,1 +1,4 @@
-Esto es un borrador
+---
+title: "Primer Blog"
+date: 2020-01-08
+---
